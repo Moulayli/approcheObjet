@@ -8,6 +8,7 @@ public class TestPersonne {
 		final AdressePostale address = new AdressePostale(12 ,"Rue des etoile","34000" );
 		
 		final AdressePostale address2 = new AdressePostale(1,"  "," ");
+		
 		address2.setNumeroDeRue(16);
 		address2.setLibelleDeLaRue("6 rue");
 		address2.setCodePostale("97690");
