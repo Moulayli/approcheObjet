@@ -1,1 +1,32 @@
-
+[
+  {
+    "id": 1,
+    "title": "Le savon est-il meilleur pour la peau que le gel douche ?",
+    "description": "La savonnette signe son grand retour dans les salles de bain. Longtemps boudé au profit du gel douche, le savon évoque les doux souvenirs de l’enfance. Il est également apprécié pour des raisons économiques et écologiques. Mais lequel est le meilleur pour la peau ? Un dermatologue nous aide à y voir plus clair.",
+    "link": "https://www.ouest-france.fr/leditiondusoir/2023-02-22/le-savon-est-il-meilleur-pour-la-peau-que-le-gel-douche-ff5849fd-3ec3-465b-9b23-aa89b37a2dc1"
+  },
+  {
+    "id": 2,
+    "title": "Savon bio : pourquoi est-il idéal pour votre peau ?",
+    "description": "Il existe de nombreux savons sur le marché : de la savonnette de votre supermarché au savon que vous ne pourrez acheter qu’en pharmacie, les gammes de savons disponibles sont extrêmement larges.",
+    "link": "https://lescheminsdelafrugalite.com/fabriquer-son-savon-maison/savon-bio-pourquoi-est-il-ideal-pour-votre-peau"
+  },
+  {
+    "id": 3,
+    "title": "Les sales dessous du savon à la chaîne",
+    "description": "Le savon, c’est un peu comme les fonds de veau, il y a ceux que l’on fabrique à la main avec amour et ceux qui concentrent les pires éléments de synthèse. Les savons industriels auront-ils un jour notre peau ? Enquête sous la douche.",
+    "link": "https://magazine.laruchequiditoui.fr/les-dessous-sales-du-savon-a-la-chaine/"
+  },
+  {
+    "id": 4,
+    "title": "Les sales dessous du savon à la chaîne",
+    "description": "Le savon, c’est un peu comme les fonds de veau, il y a ceux que l’on fabrique à la main avec amour et ceux qui concentrent les pires éléments de synthèse. Les savons industriels auront-ils un jour notre peau ? Enquête sous la douche.",
+    "link": "https://magazine.laruchequiditoui.fr/les-dessous-sales-du-savon-a-la-chaine/"
+  },
+  {
+    "id": 5,
+    "title": "Les sales dessous du savon à la chaîne",
+    "description": "Le savon, c’est un peu comme les fonds de veau, il y a ceux que l’on fabrique à la main avec amour et ceux qui concentrent les pires éléments de synthèse. Les savons industriels auront-ils un jour notre peau ? Enquête sous la douche.",
+    "link": "https://magazine.laruchequiditoui.fr/les-dessous-sales-du-savon-a-la-chaine/"
+  }
+]
